@@ -18,10 +18,23 @@ Here you can find description of [blockly](doc/en/blockly.md).
 
 Hier kann man die Beschreibung von [Blockly](doc/de/blockly.md) finden.
 
-Описание по [blockly](doc/ru/blockly.md) можно найти [здесь](doc/ru/blockl.md).
-
+Описание по [blockly](doc/ru/blockly.md) можно найти [здесь](doc/ru/blockly.md).
 
 ## Changelog
+### 3.6.4 (2018-02-05)
+* (bluefox) Pattern error is fixed
+
+### 3.6.3 (2018-01-31)
+* (bluefox) Fixing the CSS for CRON dialog
+* (bluefox) Fixing the reorder of scripts
+
+### 3.6.1 (2018-01-23)
+* (bluefox) Pattern error is fixed
+
+### 3.6.0 (2017-12-28)
+* (bluefox) more translations are added
+* (bluefox) update blockly engine
+
 ### 3.5.1 (2017-11-14)
 * (bluefox) fixed: sometimes MSG is not defined
 * (dominic.griesel) TypeScript support (preparations)
@@ -147,6 +160,6 @@ Hier kann man die Beschreibung von [Blockly](doc/de/blockly.md) finden.
 
 The MIT License (MIT)
 
-Copyright (c) 2014-2017 bluefox <dogafox@gmail.com>,
+Copyright (c) 2014-2018 bluefox <dogafox@gmail.com>,
 
 Copyright (c) 2014      hobbyquaker
